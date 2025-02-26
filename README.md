@@ -1,7 +1,7 @@
 # ortools-xmake
 compile ortools on windows for android
 # prepare
-- [or-tools source code (only v9.10)](https://github.com/google/or-tools/releases/tag/v9.10)
+- [or-tools source code (only v9.10/v9.12)](https://github.com/google/or-tools/releases/tag/v9.10)
 - [cmake](https://cmake.org/download/) 
 - [xmake](https://xmake.io/)
 - [ndk (recommended version r27c)](https://developer.android.com/ndk/downloads)
