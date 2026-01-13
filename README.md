@@ -6,7 +6,7 @@ compile ortools on windows for android
 - [xmake](https://xmake.io/)
 - [ndk (recommended version r27c)](https://developer.android.com/ndk/downloads)
 - [ninja](https://github.com/ninja-build/ninja)
-- [protoc.exe (v26.1 compatible with or-tools v9.10 | v26.1 compatible with or-tools v9.12)](https://github.com/protocolbuffers/protobuf/releases/tag/v26.1)
+- [protoc.exe (v26.1 compatible with or-tools v9.10 | v29.3 compatible with or-tools v9.12)](https://github.com/protocolbuffers/protobuf/releases/tag/v26.1)
   
 # compile
 1. in the root directory of the OR-Tools source code, add the [`set(CMAKE_CROSSCOMPILING)`](https://github.com/google/or-tools/discussions/3892) to the `CMakeLists.txt`, and run:
